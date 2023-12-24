@@ -9,7 +9,7 @@ This helped me understand the different properties of CSS and their uses. Unders
 In the course of this challenge i learnt the use of different CSS properties / syntax such as in-line blocks, grids, flex etc. I have also learnt how to locate the different elements on the HTML page while styling using the parent-child method. At first being able to locate each element on the html page was challenging. I have carefully arranged the codes leaving comments where possible to make it understable and easy for it to be modified by anyone.
 
 ## Application
-* [Aries_Hub Repository](https://github.com/clamadi/Aries_Hub)
+* [Portfolio Repository](https://github.com/clamadi/Portfolio)
 
 ## How to Use
 To run this web page, right click on the index.html file and open on a browser of your choice.
