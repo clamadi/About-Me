@@ -3,7 +3,7 @@
   padding: 0px;
   margin: 0px;
 }
-
+/* style the body */
 body {
   margin: 0;
   padding: 0;
@@ -11,7 +11,7 @@ body {
   line-height: 1.5;
   background-color: rgb(250, 250, 247);
 }
-
+/* style the header */
 .header{
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +23,7 @@ header h1{
   display: inline-block;
 }
 
+/* styling the nav bar */
 header nav{
   padding: 15px;
   margin-right: 20px;
@@ -34,6 +35,8 @@ header nav strong a{
   margin-left: 25px;
   color: rgb(250, 251, 252);
 }
+
+/* Styling the Hero-banner */
 .hero-banner{
   height: 400px;
   width: 100%;
@@ -52,6 +55,8 @@ section div h2{
   padding-left: 10px;
   margin-top: 20px;
 }
+
+/* Styling the main and work images and links */
 main{
   width: 100%;
   display: grid;
