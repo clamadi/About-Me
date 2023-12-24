@@ -23,13 +23,6 @@ header h1{
   display: inline-block;
 }
 
-/* h1 {
-  margin-block-start: 0.8em;
-  margin-block-end: 0.8em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-} */
 header nav{
   padding: 15px;
   margin-right: 20px;
@@ -40,7 +33,24 @@ header nav strong a{
   display: inline-block;
   margin-left: 25px;
 }
-h2,
+.hero-banner{
+  height: 400px;
+  width: 100%;
+  margin-bottom: 25px;
+  /* background-image: url(../images/02-hero-bg.jpg); */
+  background-size: cover;
+  background-position:center;
+  background-color: rgb(226, 219, 233);
+}
+section div h2{
+  /* padding: 10px; */
+  padding-left: 10px;
+}
+#bio-image{
+  /* padding: 10px; */
+  padding-left: 10px;
+  margin-top: 20px;
+}
 h3,
 h4,
 h5,
