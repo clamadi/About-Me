@@ -9,7 +9,7 @@ body {
   padding: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
-  background-color: rgb(220, 220, 198);
+  background-color: rgb(250, 250, 247);
 }
 
 .header{
@@ -32,6 +32,7 @@ header nav{
 header nav strong a{
   display: inline-block;
   margin-left: 25px;
+  color: rgb(250, 251, 252);
 }
 .hero-banner{
   height: 400px;
@@ -50,6 +51,56 @@ section div h2{
   /* padding: 10px; */
   padding-left: 10px;
   margin-top: 20px;
+}
+main{
+  width: 100%;
+  display: grid;
+  margin-left: 20px;
+}
+.page-section{
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 350px;
+  background-image:url(../images/02-portfolio-4.jpg) ;
+}
+.page-section2{
+  display: grid;
+  grid-template-columns: 1fr,1fr,1fr;
+margin-bottom: 10px;
+padding: 20px;
+height: 700px;
+background-image: url(../images/02-portfolio-3.jpg);
+}
+.html img{
+  padding-top: 10px;
+  float: left;
+  max-height: 200px;
+  /* max-width: 300px; */
+}
+.html a{
+  font-size: 24px;
+}
+.password-generator img{
+  float: right;
+  max-height: 400px;
+  max-width: 400px
+}
+.password-generator a{
+  padding-top: 20px;
+  text-justify:center;
+  font-size: 24px;
+  float: right;
+  
+}
+.JavaScript img{
+max-height: 200px;
+}
+.JavaScript a{
+  font-size: 24px;
+}
+
+.page-section3 ul {
+  padding: 20px;
 }
 h3,
 h4,
